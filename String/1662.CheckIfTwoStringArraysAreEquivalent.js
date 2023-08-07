@@ -36,3 +36,4 @@ word1[i] and word2[i] consist of lowercase letters.
 const arrayStringsAreEqual = (word1, word2) => {
     return word1.join('') === word2.join('')
 }
+
